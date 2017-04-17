@@ -1411,7 +1411,7 @@ ul.img-list li:hover span.text-content {
 			}
 
 			input, textarea, select {
-				font-size: 14pt;
+				font-size: 12pt;
 				line-height: 1.75em;
 			}
 
@@ -1592,6 +1592,16 @@ ul.img-list li:hover span.text-content {
 
 		/* home */
 
+		p#job { 
+		width: 50%;
+		font-size: 200%;
+		 }
+		 
+		p#news { 
+		width: 50%;
+		font-size: 100%;
+		 }
+		 
 			#home {
 				padding: 0;
 				height: 20em;
@@ -1669,7 +1679,6 @@ ul.img-list li:hover span.text-content {
 						position: absolute;
 						left: 0;
 						top: 52.5%;
-						font-size: 1.5em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
 					}
