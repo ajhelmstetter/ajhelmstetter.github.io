@@ -1,14 +1,27 @@
 ---
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+  
 
-<img src="images/me2.png" style="width:25%; margin:auto">
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
 
-EVOLUTIONARY BIOLOGIST
+<div class="col2">
+
+![](images/me2.png){width=100% style="float:right; padding:16px"}
+
+
+evolutionary biologist
 
 __Latest News\:__ 
 
 __Just out__ The [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the African palm genus, _Raphia_
 
-_Remarkable insights into processes shaping African tropical tree diversity_ our paper __recommended__ by [PCI](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True)
+_Remarkable insights into processes shaping African tropical tree diversity_ our paper [recommended](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True) by __PCI__
+
+</div>

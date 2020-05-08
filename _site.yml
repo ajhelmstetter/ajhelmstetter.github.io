@@ -1,7 +1,7 @@
-name: "Andrew J. Helmstetter"
+name: "andrew j. jelmstetter"
 output_dir: "."
 navbar:
-  title: "Andrew J. Helmstetter"
+  title: "andrew j. helmstetter"
   left:
     - text: "research"
       href: research.html
@@ -14,10 +14,12 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:andrew.j.helmstetter@gmail.com
-    - icon: fa-github fa-lg
-      href: http://github.com/ajhelmstetter
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=Ye-lhkIAAAAJ&hl=en
     - icon: fa-twitter fa-lg
       href: https://twitter.com/ajhelmstetter
+    - icon: fa-github fa-lg
+      href: http://github.com/ajhelmstetter
     - icon: fa-instagram fa-lg
       href: https://www.instagram.com/unchatquipeche
 output:
