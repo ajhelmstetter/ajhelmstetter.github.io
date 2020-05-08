@@ -3,72 +3,12 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/me2.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/me2.png" style="width:25%; margin:auto">
 
-I like to analyze data to answer research questions and test hypotheses.
+EVOLUTIONARY BIOLOGIST
 
-Latest News: Two new papers on the [phylogeny](https://doi.org/10.1038/s41598-019-52403-2)
+__Latest News\:__ 
 
-My full CV is available [here](files/cv_ajhelmstetter.pdf).
+__Just out__ The [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the African palm genus, _Raphia_
 
-Research
-I use a variety of approaches and study groups to understand the evolutionary origins of diversity. My research typically revolves around phylogenetics, population genetics and genomics but also delves into plant health, modelling species distributions and examining patterns of growth and development. Click on the links below to find out more.
-
-Hazelnut
-Madagascar
-Silene
-Cyprinodontiformes
-Austrolebias
-
-
-
-
-Development of primary genomic resources for securing sustainable hazelnut production in Turkey
-
-
-
-
-
-I am using genomic approaches to provide a platform from which we can understand the basis of cold tolerance, drought tolerance and disease resistance in the European hazelnut, Corylus avellana
-
-
-
-Demography and Phylogeny of Madagascan Flora
-
-
-Photo credits to Krzysztof Ziarnek, Forest Starr, Kim Starr, Diorit
-
-
-I'm interested in understanding how population size has changed over time in a variety of Madagascan plant species and using high-throughput sequencing to reconstruct the evolutionary history of species native to the island.
-
-
-
-Adaptation and Speciation Genetics in Silene
-
-
-
-
-
-The sea campion, Silene uniflora is a small flowering plant that is found on coastlines throughout the UK. According to folklore, sea campion should never be picked for fear of tempting death.
-
-
-
-Evolution of South American Annual Killifish
-
-
-
-
-
-The genus Austrolebias (order: Cyprinodontiformes) consists of over 40 species of annual killifish found in seasonal ponds distributed across the grasslands, wetlands and savannah of eastern South America. The small bodies of water Austrolebias inhabit dry out completely during the warm summer months meaning that individuals must grow to maturity, mate and lay eggs during the wet season. Once laid, these desiccation-resistant eggs survive an extended period of drought until hatching is triggered by the first autumn rains.
-
-My research aims to uncover why, when and how phenotypic differences among Austrolebias differences evolved in this temporary pond system. I also investigate the structure of the Austrolebias genome using high-throughput sequencing approaches to understand the number, size and location of loci influencing particular traits.
-
-Diversification and Molecular Evolution in Cyprinodontiformes
-
-
-
-
-
-The Cyprinodontiformes are an order of approximately 1,200 ray-finned fish species found primarily in Africa and the Americas but also in Asia and Europe. Many of these species are popular in the aquarium trade including guppies, mollies and killifish. Living in a wide range of habitats, they have also evolved different and peculiar reproductive life history strategies such as annualism or viviparity.
-
-My research aims to understand the factors that shape diversity in this group as well as to characterise adaptive evolution and its functional significance across representatives of the order.
+_Remarkable insights into processes shaping African tropical tree diversity_ our paper __recommended__ by [PCI](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True)

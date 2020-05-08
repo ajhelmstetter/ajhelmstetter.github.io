@@ -1,68 +1,42 @@
 ---
-title: "About Me"
+title: "brief curriculum vitae"
 ---
 
-- __Name:__ 
+__employment__
 
-Curriculum vitae
-Employment
-2018-Present Postdoctoral Researcher at Institut de recherche pour le développement (IRD), Montpellier
+* 2020-Present Postdoctoral Researcher at Centre for the Synthesis and Analysis of Biodiversity (CESAB), French Foundation for Biodiversity Research (FRB), Montpellier
+* 2018-2020 Postdoctoral Researcher at Institut de recherche pour le développement (IRD), Montpellier
+* 2016-2018 Postdoctoral Research Fellow, Plant Genomics at Royal Botanic Gardens, Kew
+* 2015-2016 Conservation Genetics Scientist at Royal Botanic Gardens, Kew
 
-2016-2018 Postdoctoral Research Fellow, Plant Genomics at Royal Botanic Gardens, Kew
+__education__
 
-2015-2016 Conservation Genetics Scientist at Royal Botanic Gardens, Kew
+* 2011-2015 NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London
+* 2007-2011 4 year MBiolSci Degree, Department of Animal & Plant Sciences, University of Sheffield
+* 2000-2007 King Edward VI Grammar School, Chelmsford, Essex
 
-Education
-2011-2015 NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London
+__courses__
 
-2007-2011 4 year MBiolSci Degree, Department of Animal & Plant Sciences, University of Sheffield
+* 2019 Advanced computer cluster use, IRD Montpellier
+* 2018 Phylogenomics Software Symposium. University of Montpellier.
+* 2017 Plant Health: Challenges and Solutions Antalya, Turkey.
+* 2012 RAD-seq methodologies for ecological and evolutionary studies
+* 2012 Generalised Linear Modelling in R, Imperial College London
 
-2000-2007 King Edward VI Grammar School, Chelmsford, Essex
+__grants, awards and memberships__
 
-Publications
-2019 Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. Andrew J. Helmstetter, Nihal Oztolan-Erol, Stuart J. Lucas, Richard J. A. Buggs bioRxiv 622027; doi: https://doi.org/10.1101/622027 link Accepted for publication in Plants, People, Planet
+* 2014 Best Presentation Prize at the 16th Young Systematists' Forum at the Natural History Museum, London
+* 2011-2015 NERC PhD Studentship
+* 2010 Research Bursary from the Sheffield Undergraduate Research Education scheme.
 
-2019 Phylogenomics of the Major Tropical Plant Family Annonaceae Using Targeted Enrichment of Nuclear Genes. Couvreur Thomas L. P.*, Helmstetter Andrew J.*, Koenen Erik J. M., Bethune Kevin, Brandão Rita D., Little Stefan A., Sauquet Hervé, Erkens Roy H. J. Frontiers in Plant Science 9:1941; doi: https://doi.org/10.3389/fpls.2018.01941 link * co-first author
+* Member of the European Society for Evolutionary Biology
+* Member of [Phylosynth](https://phylosynth.github.io/)
+* Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution
+* Reviewer for: Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution, Forests, Annals of Botany
 
-2018 Trait evolution and historical biogeography shape assemblages of annual killifish. Andrew J. Helmstetter, Tom J. M. Van Dooren, Alexander S. T. Papadopulos, Javier Igea, Armand M. Leroi, Vincent Savolainen bioRxiv 436808; doi: https://doi.org/10.1101/436808 link
+__outreach__
 
-2017 A case for sympatric speciation by cannibalism in South-American annual killifish (Austrolebias). Tom J. M. Van Dooren, Henri A. Thomassen, Femmie Smit, Andrew J. Helmstetter, Vincent Savolainen bioRxiv 121806; doi: https://doi:10.1038/s41598-017-08461-5 link
-
-2017 Field-based species identification of closely-related plants using real-time nanopore sequencing. Joe Parker, Andrew J. Helmstetter, Dion S. Devey, Tim Wilkinson & Alexander S. T. Papadopulos Scientific Reports 7:8345 doi: https://doi.org/10.1101/107656 link
-
-2016 Viviparity stimulates diversification in an order of fish. Andrew J. Helmstetter, Alexander S. T. Papadopulos, Javier Igea, Tom J. M. Van Dooren, Armand M. Leroi & Vincent Savolainen Nature Communications 7:11271 doi: 10.1038/ncomms11271 (2016) link
-
-Courses
-2019 Advanced computer cluster use, IRD Montpellier
-
-2018 Phylosynth meeting https://phylosynth.github.io/
-
-2018 Phylogenomics Software Symposium. University of Montpellier.
-
-2017 Plant Health: Challenges and Solutions Antalya, Turkey.
-
-2012 RAD-seq methodologies for ecological and evolutionary studies - Dr. Julian Catchen & Dr. Bill Cresko
-
-2012 Generalised Linear Modelling - Prof. Mick Crawley
-
-Grants, awards and memberships
-2014 Best Presentation Prize at the 16th Young Systematists' Forum at the Natural History Museum, London
-
-2011-2015 NERC PhD Studentship
-
-2010 Research Bursary from the Sheffield Undergraduate Research Education scheme.
-
-Member, European Society for Evolutionary Biology
-
-Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution
-
-Reviewed manuscripts for: Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution
-
-Outreach
-2016 Kew Science Festival. Species identification, DNA extraction and real-time DNA sequencing.
-
-2015 “Bugs Day” Festival Imperial College London. DNA extraction hands-on with children.
-
-2011 Published an account of a collection expedition to Uruguay in the bi-monthly journal of the British Killifish Association, Killi-news.
-
-2011 Asked to write an article for the Society of Biology on adaptive radiations in cichlids
+* 2016 Kew Science Festival. Species identification, DNA extraction and real-time DNA sequencing.
+* 2015 “Bugs Day” Festival Imperial College London. DNA extraction hands-on with children.
+* 2011 Published an account of a collection expedition to Uruguay in the bi-monthly journal of the [British Killifish Association](https://killis.org.uk/wp/), Killi-news.
+* 2011 Wrote an [article](https://blog.rsb.org.uk/why-do-some-lakes-have-a-greater-diversity-of-cichlid-fish/) for the Society of Biology on adaptive radiations in cichlids

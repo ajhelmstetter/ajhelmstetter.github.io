@@ -1,0 +1,25 @@
+Helmstetter, A., Papadopulos, A., Igea, J., Van Dooren, T., Leroi, A., & Savolainen, V. (2016). Viviparity stimulates diversification in an order of fishNature communications, 7, 11271.
+
+Van Dooren, T., Thomassen, H., Smit, F., Helmstetter, A., & Savolainen, V. (2018). Scope for sympatric giant-dwarf speciation driven by cannibalism in South-American annual killifish (Austrolebias). bioRxiv, 121806.
+
+Parker, J., Helmstetter, A., Devey, D., Wilkinson, T., & Papadopulos, A. (2017). Field-based species identification of closely-related plants using real-time nanopore sequencing. Scientific reports, 7(1), 1–8.
+
+Parker, J., Helmstetter, A., & Papadopulos, A. (2018). Rapid, raw-read reference and identification (R4IDs): A flexible platform for rapid generic species ID using long-read sequencing technology. bioRxiv, 281048.
+
+Helmstetter, A., Van Dooren, T., Papadopulos, A., Igea, J., Leroi, A., & Savolainen, V. (2018). Trait evolution and historical biogeography shape assemblages of annual killifish. bioRxiv, 436808.
+
+Couvreur, T., Helmstetter, A., Koenen, E., Bethune, K., Brand\~ao, R., Little, S., Sauquet, H., & Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941.
+
+Helmstetter, A., Oztolan-Erol, N., Lucas, S., & Buggs, R. (2019). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. bioRxiv, 622027.
+
+Helmstetter, A., Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727.
+
+Helmstetter, A., Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12.
+
+Helmstetter, A., & Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv.
+
+Schley, R., Pennington, R., Pérez-Escobar, O., Helmstetter, A., Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., & Klitgård, B. (2020). Evolutionary reticulation makes an important contribution to Amazonian tree diversity. bioRxiv, 2019–12.
+
+Helmstetter, A., Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W., Baker, W., & Papadopulos, A. (2020). The Demographic History of Micro-endemics: Have Rare Species Always Been Rare. bioRxiv.
+
+Helmstetter, A., Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus Raphia (Calamoideae, Arecaceae). Plants, 9(4), 549.

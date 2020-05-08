@@ -7,6 +7,8 @@ navbar:
       href: research.html
     - text: "cv"
       href: cv.html
+    - text: "publications"
+      href: publications.html
     - text: "more"
       href: more.html
   right:
@@ -16,8 +18,8 @@ navbar:
       href: http://github.com/ajhelmstetter
     - icon: fa-twitter fa-lg
       href: https://twitter.com/ajhelmstetter
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/unchatquipeche
 output:
   html_document:
     theme: paper
