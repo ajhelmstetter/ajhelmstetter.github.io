@@ -1,0 +1,8 @@
+---
+title: "Research"
+---
+
+## [Data Visualization in R]()
+
+- Interactive plots of things
+- I can code!

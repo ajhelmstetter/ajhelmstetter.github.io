@@ -1,0 +1,24 @@
+name: "Andrew J. Helmstetter"
+output_dir: "."
+navbar:
+  title: "Andrew J. Helmstetter"
+  left:
+    - text: "research"
+      href: research.html
+    - text: "cv"
+      href: cv.html
+    - text: "more"
+      href: more.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:andrew.j.helmstetter@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/ajhelmstetter
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ajhelmstetter
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
