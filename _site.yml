@@ -9,8 +9,10 @@ navbar:
       href: cv.html
     - text: "publications"
       href: publications.html
-    - text: "more"
-      href: more.html
+    - text: "photography"
+      href: photography.html
+    - text: "blog"
+      href: blog.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:andrew.j.helmstetter@gmail.com
@@ -25,4 +27,4 @@ navbar:
 output:
   html_document:
     theme: paper
-    css: 'styles.css'
+    css: 'style.css'
