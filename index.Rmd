@@ -1,7 +1,6 @@
 ---
 ---
 
-  
 
 <style>
   .col2 {
@@ -11,14 +10,15 @@
   }
 </style>
 
-<div class="col2">
+<div class="col2" style="padding:16px">
 
-![](images/me2.png){width=100% style="float:right; padding:16px"}
+![](images/me2.png){width=100% style="float:right"}
 
+<br></br>
 
-evolutionary biologist
+<font size="40" color="grey" style="LINE-HEIGHT:20px">evolutionary biologist</font>
 
-__Latest News\:__ 
+### Latest News: 
 
 __Just out__ The [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the African palm genus, _Raphia_
 

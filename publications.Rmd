@@ -1,43 +1,41 @@
 ---
 title: "publications"
 ---
-__2020__
+#### 2020
 
-__Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus Raphia (Calamoideae, Arecaceae). Plants, 9(4), 549.
+__Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus Raphia (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
 
-__Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. _In press_, Plants, People, Planet.
+__Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. _In press_, Plants, People, Planet. https://doi.org/10.1002/ppp3.10078
 
-__Helmstetter, A. J.__, Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W., Baker, W., & Papadopulos, A. (2020). The Demographic History of Micro-endemics: Have Rare Species Always Been Rare. bioRxiv.
+__Helmstetter, A. J.__, Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W., Baker, W., & Papadopulos, A. (2020). The Demographic History of Micro-endemics: Have Rare Species Always Been Rare. bioRxiv. https://doi.org/10.1101/2020.03.10.985853
 
-Schley, R., Pennington, R., Pérez-Escobar, O., __Helmstetter, A. J.__, Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., & Klitgård, B. (2020). Evolutionary reticulation makes an important contribution to Amazonian tree diversity. bioRxiv, 2019–12.
+Schley, R., Pennington, R., Pérez-Escobar, O., __Helmstetter, A. J.__, Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., & Klitgård, B. (2020). Evolutionary reticulation makes an important contribution to Amazonian tree diversity. bioRxiv, 2019–12. https://doi.org/10.1101/2019.12.12.873927
 
-__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727.
+#### 2019
 
-__2019__
+Couvreur, T.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., Little, S., Sauquet, H., & Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941. https://doi.org/10.3389/fpls.2018.01941 \* __*joint first author*__
 
-Couvreur, T.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., Little, S., Sauquet, H., & Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941. \* __*joint first author*__
+__Helmstetter, A. J.__, Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12. https://doi.org/10.1038/s41598-019-52403-2
 
-__Helmstetter, A. J.__, Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12.
+__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727. https://doi.org/10.1101/807727 _[recommended](10.24072/pci.evolbiol.100094) by PCI_
 
-__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727.
+__Helmstetter, A. J.__, & Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv. https://doi.org/10.1101/2019.12.31.891648
 
-__Helmstetter, A. J.__, & Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv.
+#### 2018
 
-__2018__
+__Helmstetter, A. J__., Papadopulos, A., Igea, J., Van Dooren, T. Trait evolution and historical biogeography shape assemblages of annual killifish. *In press*, Journal of Biogeography. https://doi.org/10.1101/436808
 
-__Helmstetter, A. J__., Papadopulos, A., Igea, J., Van Dooren, T. Trait evolution and historical biogeography shape assemblages of annual killifish. *In press*, Journal of Biogeography.
+Parker, J., __Helmstetter, A. J.__, & Papadopulos, A. (2018). Rapid, raw-read reference and identification (R4IDs): A flexible platform for rapid generic species ID using long-read sequencing technology. bioRxiv, 281048. https://doi.org/10.1101/281048
 
-Parker, J., __Helmstetter, A. J.__, & Papadopulos, A. (2018). Rapid, raw-read reference and identification (R4IDs): A flexible platform for rapid generic species ID using long-read sequencing technology. bioRxiv, 281048.
+Van Dooren, T., Thomassen, H., Smit, F., __Helmstetter, A. J.__, & Savolainen, V. (2018). Scope for sympatric giant-dwarf speciation driven by cannibalism in South-American annual killifish (Austrolebias). bioRxiv, 121806. https://doi.org/10.1101/121806
 
-Van Dooren, T., Thomassen, H., Smit, F., __Helmstetter, A. J.__, & Savolainen, V. (2018). Scope for sympatric giant-dwarf speciation driven by cannibalism in South-American annual killifish (Austrolebias). bioRxiv, 121806.
+#### 2017
 
-__2017__
+Parker, J., __Helmstetter, A. J.__, Devey, D., Wilkinson, T., & Papadopulos, A. (2017). Field-based species identification of closely-related plants using real-time nanopore sequencing. Scientific reports, 7(1), 1–8. https://doi.org/10.1038/s41598-017-08461-5
 
-Parker, J., __Helmstetter, A. J.__, Devey, D., Wilkinson, T., & Papadopulos, A. (2017). Field-based species identification of closely-related plants using real-time nanopore sequencing. Scientific reports, 7(1), 1–8.
+#### 2016
 
-__2016__
-
-__Helmstetter, A. J.__, Papadopulos, A., Igea, J., Van Dooren, T., Leroi, A., & Savolainen, V. (2016). Viviparity stimulates diversification in an order of fish. Nature communications, 7, 11271.
+__Helmstetter, A. J.__, Papadopulos, A., Igea, J., Van Dooren, T., Leroi, A., & Savolainen, V. (2016). Viviparity stimulates diversification in an order of fish. Nature communications, 7, 11271. https://doi.org/10.1038/ncomms11271.
 
 
 

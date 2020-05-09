@@ -2,41 +2,41 @@
 title: "brief curriculum vitae"
 ---
 
-__employment__
+#### employment
 
-* 2020-Present Postdoctoral Researcher, Centre for the Synthesis and Analysis of Biodiversity (CESAB), French Foundation for Biodiversity Research (FRB), Montpellier
-* 2018-2020 Postdoctoral Researcher, Institut de recherche pour le développement (IRD), Montpellier
-* 2016-2018 Postdoctoral Research Fellow, Plant Genomics at Royal Botanic Gardens, Kew
-* 2015-2016 Conservation Genetics Scientist at Royal Botanic Gardens, Kew
+* __2020-Present__ Postdoctoral Researcher, Centre for the Synthesis and Analysis of Biodiversity (CESAB), French Foundation for Biodiversity Research (FRB), Montpellier
+* __2018-2020__ Postdoctoral Researcher, Institut de recherche pour le développement (IRD), Montpellier
+* __2016-2018__ Postdoctoral Research Fellow, Plant Genomics at Royal Botanic Gardens, Kew
+* __2015-2016__ Conservation Genetics Scientist at Royal Botanic Gardens, Kew
 
-__education__
+#### education
 
-* 2011-2015 NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London
-* 2007-2011 4 year MBiolSci Degree, Department of Animal & Plant Sciences, University of Sheffield
-* 2000-2007 King Edward VI Grammar School, Chelmsford, Essex
+* __2011-2015__ NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London
+* __2007-2011__ 4 year MBiolSci Degree, Department of Animal & Plant Sciences, University of Sheffield
+* __2000-2007__ King Edward VI Grammar School, Chelmsford, Essex
 
-__courses__
+#### courses
 
-* 2019 Advanced computer cluster use, IRD Montpellier
-* 2018 Phylogenomics Software Symposium. University of Montpellier.
-* 2017 Plant Health: Challenges and Solutions Antalya, Turkey.
-* 2012 RAD-seq methodologies for ecological and evolutionary studies
-* 2012 Generalised Linear Modelling in R, Imperial College London
+* __2019__ Advanced computer cluster use, IRD Montpellier
+* __2018__ Phylogenomics Software Symposium. University of Montpellier.
+* __2017__ Plant Health: Challenges and Solutions Antalya, Turkey.
+* __2012__ RAD-seq methodologies for ecological and evolutionary studies
+* __2012__ Generalised Linear Modelling in R, Imperial College London
 
-__grants, awards and memberships__
+#### grants, awards and memberships
 
-* 2014 Best Presentation Prize at the 16th Young Systematists' Forum at the Natural History Museum, London
-* 2011-2015 NERC PhD Studentship
-* 2010 Research Bursary from the Sheffield Undergraduate Research Education scheme.
+* __2014__ Best Presentation Prize at the 16th Young Systematists' Forum at the Natural History Museum, London
+* __2011-2015__ NERC PhD Studentship
+* __2010__ Research Bursary from the Sheffield Undergraduate Research Education scheme.
 
 * Member of the European Society for Evolutionary Biology
 * Member of [Phylosynth](https://phylosynth.github.io/)
 * Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution
 * Reviewer for: Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution, Forests, Annals of Botany
 
-__outreach__
+#### outreach
 
-* 2016 Kew Science Festival. Species identification, DNA extraction and real-time DNA sequencing.
-* 2015 “Bugs Day” Festival Imperial College London. DNA extraction hands-on with children.
-* 2011 Published an account of a collection expedition to Uruguay in the bi-monthly journal of the [British Killifish Association](https://killis.org.uk/wp/), Killi-news.
-* 2011 Wrote an [article](https://blog.rsb.org.uk/why-do-some-lakes-have-a-greater-diversity-of-cichlid-fish/) for the Society of Biology on adaptive radiations in cichlids
+* __2016__ Kew Science Festival. Species identification, DNA extraction and real-time DNA sequencing.
+* __2015__ “Bugs Day” Festival Imperial College London. DNA extraction hands-on with children.
+* __2011__ Published an account of a collection expedition to Uruguay in the bi-monthly journal of the [British Killifish Association](https://killis.org.uk/wp/), Killi-news.
+* __2011__ Wrote an [article](https://blog.rsb.org.uk/why-do-some-lakes-have-a-greater-diversity-of-cichlid-fish/) for the Society of Biology on adaptive radiations in cichlids
