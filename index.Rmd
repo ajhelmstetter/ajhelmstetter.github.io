@@ -2,15 +2,9 @@
 ---
 
 
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-</style>
 
-<div class="col2" style="padding:16px">
+
+<div class="col2" style="padding-top:16px">
 
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
 
