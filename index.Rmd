@@ -12,16 +12,16 @@
 
 <div class="col2" style="padding:16px">
 
-![](images/me2.png){width=100% style="float:right"}
-
-<br></br>
-
-<font size="40" color="grey" style="LINE-HEIGHT:20px">evolutionary biologist</font>
+<font size="50" color="grey" style="LINE-HEIGHT:50px">evolutionary biologist</font>
 
 ### Latest News: 
 
 __Just out__ The [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the African palm genus, _Raphia_
 
 _Remarkable insights into processes shaping African tropical tree diversity_ our paper [recommended](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True) by __PCI__
+
+
+![](images/me2.png){width=100% style="float:right"}
+
 
 </div>
