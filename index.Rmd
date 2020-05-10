@@ -1,9 +1,6 @@
 ---
 ---
 
-
-
-
 <div class="col2" style="padding-top:16px">
 
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
@@ -16,8 +13,10 @@ __just out:__ the [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of
 
 _"remarkable insights into processes shaping african tropical tree diversity"_ our [paper](https://doi.org/10.1101/807727) has been [recommended](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True) by __PCI__
 
+##
+
+##
 
 ![](images/me_circle3.png){width=75% style="float:center padding:100px"}
-
 
 </div>

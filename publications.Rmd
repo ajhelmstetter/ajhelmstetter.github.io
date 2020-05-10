@@ -17,7 +17,7 @@ Couvreur, T.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., 
 
 __Helmstetter, A. J.__, Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12. https://doi.org/10.1038/s41598-019-52403-2
 
-__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727. https://doi.org/10.1101/807727 _[recommended](10.24072/pci.evolbiol.100094) by PCI_
+__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727. https://doi.org/10.1101/807727 __*[recommended](10.24072/pci.evolbiol.100094) by PCI*__
 
 __Helmstetter, A. J.__, & Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv. https://doi.org/10.1101/2019.12.31.891648
 
