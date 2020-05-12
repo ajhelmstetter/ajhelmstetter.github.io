@@ -5,7 +5,17 @@ img {
 }
 
 .col2 {
-  columns: 2 300px;         /* number of columns and width in pixels*/
-  -webkit-columns: 2 300px; /* chrome, safari */
-  -moz-columns: 2 300px;    /* firefox */
+  columns: 2 400px;         /* number of columns and width in pixels*/
+  -webkit-columns: 2 400px; /* chrome, safari */
+  -moz-columns: 2 400px;    /* firefox */
+}
+
+table tr td {
+  padding:0;  
+}
+table tr td:nth-child(1) {
+  width:610px;
+}
+table tr td:nth-child(2) {
+  width:300px;
 }
