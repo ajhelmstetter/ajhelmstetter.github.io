@@ -5,13 +5,15 @@ img {
 }
 
 .col2 {
-  columns: 2 400px;         /* number of columns and width in pixels*/
-  -webkit-columns: 2 400px; /* chrome, safari */
-  -moz-columns: 2 400px;    /* firefox */
+  columns: 2 300px;         /* number of columns and width in pixels*/
+  -webkit-columns: 2 300px; /* chrome, safari */
+  -moz-columns: 2 300px;    /* firefox */
 }
 
 table tr td {
-  padding:0;  
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-right:0px;   
 }
 table tr td:nth-child(1) {
   width:610px;
