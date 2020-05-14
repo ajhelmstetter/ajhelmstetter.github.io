@@ -1,3 +1,7 @@
+---
+pagetitle: "photography"
+---
+
 ##
 ##
 <!-- Place <div> tag where you want the feed to appear -->

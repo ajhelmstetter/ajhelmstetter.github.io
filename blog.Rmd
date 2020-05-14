@@ -1,3 +1,8 @@
+---
+pagetitle: "blog"
+---
+
+
 <br></br>
 
 _insert intelligent thoughts and insights here_

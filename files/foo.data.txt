@@ -1,0 +1,69 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20200509135542+00'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20200509135542+00'00'
+InfoBegin
+InfoKey: Author
+InfoValue: MFC
+InfoBegin
+InfoKey: Title
+InfoValue: Andrew J Helmstetter
+InfoBegin
+InfoKey: Creator
+InfoValue: Microsoft Word
+PdfID0: 63026f40dd87004b9c97f22d86656335
+PdfID1: 63026f40dd87004b9c97f22d86656335
+NumberOfPages: 3
+BookmarkBegin
+BookmarkTitle: Objectives
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Education &amp; Academic Qualifications
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Employment
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Grants, Awards &amp; Memberships
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Presentations
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Outreach
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Courses &amp; Workshops
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Personal Interests and Qualifications
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Selected Publications
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.5 841.75
+PageMediaDimensions: 595.5 841.75
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.5 841.75
+PageMediaDimensions: 595.5 841.75
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.5 841.75
+PageMediaDimensions: 595.5 841.75
