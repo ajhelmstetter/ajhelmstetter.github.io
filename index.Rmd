@@ -6,13 +6,15 @@ pagetitle: "home"
 
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
 
-### latest news: 
+### latest news
 
-##### *01/05/2020*
+**23/04/2020**
 
-__just out:__ the [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the African palm genus, _Raphia_
+__just out:__ the [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the african palm genus, _Raphia_
 
-_"remarkable insights into processes shaping african tropical tree diversity"_ our [paper](https://doi.org/10.1101/807727) has been [recommended](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True) by __PCI__
+**11/03/2020**
+
+_"remarkable insights into processes shaping african tropical tree diversity"_ our [paper](https://doi.org/10.1101/807727) has been [recommended](https://evolbiol.peercommunityin.org/public/rec?id=225&reviews=True) by _peer community in evolutionary biology_
 
 <div id="me">
 ![](images/me_circle3.png){width=75% style="float:center padding:100px"}
