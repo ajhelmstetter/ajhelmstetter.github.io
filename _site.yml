@@ -9,10 +9,12 @@ navbar:
       href: cv.html
     - text: "publications"
       href: publications.html
-    - text: "photography"
-      href: photography.html
     - text: "blog"
       href: blog.html
+    - text: "photography"
+      href: photography.html
+    - text: "music"
+      href: music.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:andrew.j.helmstetter@gmail.com
