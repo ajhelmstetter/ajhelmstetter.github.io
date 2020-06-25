@@ -8,9 +8,13 @@ pagetitle: "home"
 
 ### latest news
 
+**25/06/2020**
+
+__just out:__ article on the diversification in two Annonaceae tribes [featured](https://doi.org/10.3390/d12060227) published in a special [issue](https://www.mdpi.com/journal/diversity/special_issues/biodiversity_vegetation_flora) on 'Biodiversity of Vegetation and Flora in Tropical Africa' in _Plants_
+
 **23/04/2020**
 
-__just out:__ the [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the african palm genus, _Raphia_
+the [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the african palm genus, _Raphia_
 
 **11/03/2020**
 
