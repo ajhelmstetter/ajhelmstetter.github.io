@@ -8,7 +8,9 @@ Brée, B., __Helmstetter, A.J.__, Bethune, K., Ghogue, J.-P., Sonké, B., & Couv
 
 __Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus Raphia (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
 
-__Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. _In press_, Plants, People, Planet. https://doi.org/10.1002/ppp3.10078
+__Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. Plants, People, Planet, 2(4), 326-339 https://doi.org/10.1002/ppp3.10078
+
+__Helmstetter, A. J__., Papadopulos, A., Igea, J., Van Dooren, T (2020). Trait evolution and historical biogeography shape assemblages of annual killifish. *In press*, Journal of Biogeography.  https://doi.org/10.1111/jbi.13912
 
 __Helmstetter, A. J.__, Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W., Baker, W., & Papadopulos, A. (2020). The Demographic History of Micro-endemics: Have Rare Species Always Been Rare. bioRxiv. https://doi.org/10.1101/2020.03.10.985853
 
@@ -20,13 +22,11 @@ Couvreur, T.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., 
 
 __Helmstetter, A. J.__, Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12. https://doi.org/10.1038/s41598-019-52403-2
 
-__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727. https://doi.org/10.1101/807727 __*[recommended](10.24072/pci.evolbiol.100094) by PCI*__
+__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727. *Accepted*, Molecular Ecology https://doi.org/10.1101/807727 **[recommended](10.24072/pci.evolbiol.100094) by PCI** 
 
 __Helmstetter, A. J.__, & Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv. https://doi.org/10.1101/2019.12.31.891648
 
 #### 2018
-
-__Helmstetter, A. J__., Papadopulos, A., Igea, J., Van Dooren, T. Trait evolution and historical biogeography shape assemblages of annual killifish. *In press*, Journal of Biogeography. https://doi.org/10.1101/436808
 
 Parker, J., __Helmstetter, A. J.__, & Papadopulos, A. (2018). Rapid, raw-read reference and identification (R4IDs): A flexible platform for rapid generic species ID using long-read sequencing technology. bioRxiv, 281048. https://doi.org/10.1101/281048
 
