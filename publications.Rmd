@@ -6,7 +6,7 @@ title: "publications"
 
 Brée, B., __Helmstetter, A.J.__, Bethune, K., Ghogue, J.-P., Sonké, B., & Couvreur, T.L.P (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. https://doi.org/10.3390/d12060227 
 
-__Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus Raphia (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
+__Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus _Raphia_ (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
 
 __Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. Plants, People, Planet, 2(4), 326-339 https://doi.org/10.1002/ppp3.10078
 
