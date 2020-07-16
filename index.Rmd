@@ -7,8 +7,8 @@ pagetitle: "home"
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
 
 ### latest news
-**13/0/2020**
-__[out now](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13912?af=R#.Xwv6ScXZyMU)__ in _journal of biogeography_ Trait evolution and historical biogeography shape assemblages of annual killifish
+**13/07/2020**
+__[out now](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13912?af=R#.Xwv6ScXZyMU) in *journal of biogeography*__ Trait evolution and historical biogeography shape assemblages of annual killifish
 
 **25/06/2020**
 
