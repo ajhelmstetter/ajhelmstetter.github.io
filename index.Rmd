@@ -7,16 +7,17 @@ pagetitle: "home"
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
 
 ### latest news
+**10/08/2020**
+
+__[early view](https://doi.org/10.1111/mec.15572) in *molecular ecology*__ Phylogenomic approaches reveal how climate shapes patterns of genetic diversity in an African rain forest tree species
+
 **13/07/2020**
+
 __[out now](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13912?af=R#.Xwv6ScXZyMU) in *journal of biogeography*__ Trait evolution and historical biogeography shape assemblages of annual killifish
 
 **25/06/2020**
 
 __just out:__ article on the diversification in two Annonaceae tribes [featured](https://doi.org/10.3390/d12060227) published in a special [issue](https://www.mdpi.com/journal/diversity/special_issues/biodiversity_vegetation_flora) on 'Biodiversity of Vegetation and Flora in Tropical Africa' in _Plants_
-
-**23/04/2020**
-
-the [phylogenomics](https://doi.org/10.1038/s41598-019-52403-2) of the african palm genus, _Raphia_
 
 <div id="me">
 ![](images/me_circle3.png){width=75% style="float:center padding:100px"}

@@ -4,6 +4,8 @@ title: "publications"
 
 #### 2020
 
+__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kamdem, N., Kakai, R., Sonke, B., & Couvreur, T. (2020). Phylogenomic data reveal how climate shapes patterns of diversity in an African rain forest tree species. *In press*, Molecular Ecology https://doi.org/10.1111/mec.15572 **[recommended](10.24072/pci.evolbiol.100094) by PCI** 
+
 Brée, B., __Helmstetter, A.J.__, Bethune, K., Ghogue, J.-P., Sonké, B., & Couvreur, T.L.P (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. https://doi.org/10.3390/d12060227 
 
 __Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus _Raphia_ (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
@@ -21,8 +23,6 @@ Schley, R., Pennington, R., Pérez-Escobar, O., __Helmstetter, A. J.__, Estrella
 Couvreur, T.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., Little, S., Sauquet, H., & Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941. https://doi.org/10.3389/fpls.2018.01941 \* __*joint first author*__
 
 __Helmstetter, A. J.__, Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12. https://doi.org/10.1038/s41598-019-52403-2
-
-__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kandem, N., Kakai, R., Sonke, B., & Couvreur, T. (2019). Phylogenomic data reveal how a climatic inversion and glacial refugia shape patterns of diversity in an African rain forest tree species. bioRxiv, 807727. *Accepted*, Molecular Ecology https://doi.org/10.1101/807727 **[recommended](10.24072/pci.evolbiol.100094) by PCI** 
 
 __Helmstetter, A. J.__, & Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv. https://doi.org/10.1101/2019.12.31.891648
 
