@@ -30,7 +30,6 @@ title: "brief curriculum vitae"
 * __2014__ Best Presentation Prize at the 16th Young Systematists' Forum at the Natural History Museum, London
 * __2011-2015__ NERC PhD Studentship
 * __2010__ Research Bursary from the Sheffield Undergraduate Research Education scheme.
-
 * Member of the European Society for Evolutionary Biology
 * Member of [Phylosynth](https://phylosynth.github.io/)
 * Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution
