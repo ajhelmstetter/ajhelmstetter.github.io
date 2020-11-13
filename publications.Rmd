@@ -4,11 +4,14 @@ title: "publications"
 
 #### 2020
 
+Escobar, S. , __Helmstetter, A. J.__ , Jarvie, S., Montúfar, R., Balslev, H., & Couvreur, T. L. P. (2020). Pleistocene climatic fluctuations promoted alternative evolutionary histories in a palm from the rain forests of western Ecuador. *In press*, Journal of Biogeography.
+
 Schley, R., Pennington, R., Pérez-Escobar, O., __Helmstetter, A. J.__, de la Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., & Klitgård, B. (2020). Introgression across evolutionary scales suggests reticulation contributes to Amazonian tree diversity. Molecular Ecology, 29(21), 4170-4185. https://doi.org/10.1111/mec.15616
 
-__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kamdem, N., Kakai, R., Sonke, B., & Couvreur, T. (2020). Phylogenomic data reveal how climate shapes patterns of diversity in an African rain forest tree species. Molecular Ecology, 29(18), 3560-3573. https://doi.org/10.1111/mec.15572 **[recommended](10.24072/pci.evolbiol.100094) by PCI** 
+__Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kamdem, N., Kakai, R., Sonke, B., & Couvreur, T. L. P. (2020). Phylogenomic data reveal how climate shapes patterns of diversity in an African rain forest tree species. Molecular Ecology, 29(18), 3560-3573. https://doi.org/10.1111/mec.15572 **[recommended](10.24072/pci.evolbiol.100094) by PCI** 
 
-Brée, B., __Helmstetter, A.J.__, Bethune, K., Ghogue, J.-P., Sonké, B., & Couvreur, T.L.P (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. https://doi.org/10.3390/d12060227 
+Brée, B., __Helmstetter, A.J.__, Bethune, K., Ghogue, J.-P., Sonké, B., & Couvreur, T.L.P. (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. https://doi.org/10.3390/d12060227 
+
 __Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus _Raphia_ (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
 
 __Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. Plants, People, Planet, 2(4), 326-339 https://doi.org/10.1002/ppp3.10078
