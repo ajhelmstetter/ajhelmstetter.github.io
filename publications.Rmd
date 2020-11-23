@@ -4,7 +4,9 @@ title: "publications"
 
 #### 2020
 
-Escobar, S. , __Helmstetter, A. J.__ , Jarvie, S., Montúfar, R., Balslev, H., & Couvreur, T. L. P. (2020). Pleistocene climatic fluctuations promoted alternative evolutionary histories in a palm from the rain forests of western Ecuador. *In press*, Journal of Biogeography.
+Papadopulos, A. S. T., __Helmstetter, A. J.__, Osborne, O. G., Comeault, A. A., Wood, D. P., Straw, E. A., ... & Foote, A. D. (2020). Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution. _Accepted for publication pending major revisions_, Molecular Biology and Evolution. https://doi.org/10.1101/2020.08.12.248328
+
+Escobar, S. , __Helmstetter, A. J.__ , Jarvie, S., Montúfar, R., Balslev, H., & Couvreur, T. L. P. (2020). Phylogenomic relationships and historical biogeography in the South American vegetable ivory palms (Phytelepheae). *In press*, Journal of Biogeography. https://doi.org/10.1101/2020.09.03.280941.
 
 Schley, R., Pennington, R., Pérez-Escobar, O., __Helmstetter, A. J.__, de la Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., & Klitgård, B. (2020). Introgression across evolutionary scales suggests reticulation contributes to Amazonian tree diversity. Molecular Ecology, 29(21), 4170-4185. https://doi.org/10.1111/mec.15616
 
@@ -22,7 +24,7 @@ __Helmstetter, A. J.__, Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarin
 
 #### 2019
 
-Couvreur, T.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., Little, S., Sauquet, H., & Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941. https://doi.org/10.3389/fpls.2018.01941 \* __*joint first author*__
+Couvreur, T. L. P.\*, __Helmstetter, A. J.__\*, Koenen, E., Bethune, K., Brandao, R., Little, S., Sauquet, H., & Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941. https://doi.org/10.3389/fpls.2018.01941 \* __*joint first author*__
 
 __Helmstetter, A. J.__, Buggs, R., & Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12. https://doi.org/10.1038/s41598-019-52403-2
 
