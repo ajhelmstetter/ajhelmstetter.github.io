@@ -7,17 +7,17 @@ pagetitle: "home"
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
 
 ### latest news
+**08/12/2020**
+
+__[early view](https://www.pnas.org/content/early/2020/12/03/2001018117)__ in __PNAS__
+
+*Individualistic evolutionary responses of Central African rain forest plants to Pleistocene climatic fluctuations*
+
 **10/08/2020**
 
 __[early view](https://doi.org/10.1111/mec.15572)__ in __molecular ecology__
 
 *Phylogenomic approaches reveal how climate shapes patterns of genetic diversity in an African rain forest tree species*
-
-**13/07/2020**
-
-__[out now](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13912?af=R#.Xwv6ScXZyMU)__ in __journal of biogeography__
-
-*Trait evolution and historical biogeography shape assemblages of annual killifish*
 
 <div id="me">
 ![](images/me_circle3.png){width=75% style="float:center padding:100px"}
