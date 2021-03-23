@@ -9,6 +9,8 @@ navbar:
       href: cv.html
     - text: "publications"
       href: publications.html
+    - text: "software"
+      href: software.html
     - text: "blog"
       href: blog.html
     - text: "photography"
