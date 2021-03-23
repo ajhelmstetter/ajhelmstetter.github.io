@@ -6,6 +6,8 @@ title: "software"
 
 An R package for chewing up papers, spitting out the information you don't want, keeping the information you do.
 
+![](images/papieRmache.png){width=85%}
+
 To install:
 
 ```r
