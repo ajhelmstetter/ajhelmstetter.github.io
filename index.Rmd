@@ -16,7 +16,7 @@ __[now out](https://doi.org/10.1101/2020.08.12.248328)__ in __MBE__
 
 **04/01/2021**
 
-__New preprint__ on __[biorxiv](https://doi.org/10.1101/2021.01.04.424672)__
+__new preprint__ on __[biorxiv](https://doi.org/10.1101/2021.01.04.424672)__
 
 *Pulled Diversification Rates, Lineage-Through-Time Plots and Modern Macroevolutionary Modelling* - a point of view paper on [Louca & Pennell, 2020](https://doi.org/10.1038/s41586-020-2176-1)
 
