@@ -13,24 +13,38 @@
 
 <title>publications</title>
 
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -79,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +84,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +118,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +130,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +141,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +169,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -299,31 +269,31 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:andrew.j.helmstetter@gmail.com">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://scholar.google.com/citations?user=Ye-lhkIAAAAJ&amp;hl=en">
-    <span class="fa fa-graduation-cap fa-lg"></span>
+    <span class="fas fa-graduation-cap fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/ajhelmstetter">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/ajhelmstetter">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.instagram.com/unchatquipeche">
-    <span class="fa fa-instagram fa-lg"></span>
+    <span class="fas fa-instagram fa-lg"></span>
      
   </a>
 </li>
@@ -332,7 +302,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -343,19 +313,21 @@ $(document).ready(function () {
 
 <div id="section" class="section level4">
 <h4>2021</h4>
-<p><strong>Helmstetter, A. J.</strong>, Glemin, S., Kafer, J., Zenil-Ferguson, R., Sauquet, H., de Boer, H., Mazet, N., Reboud, E. J., Dagallier, L. M. J., Couvreur, T. L. P. &amp; Condamine, F. L. (2021). Pulled Diversification Rates, Lineage-Through-Time Plots and Modern Macroevolutionary Modelling. bioRxiv. <a href="https://doi.org/10.1101/2021.01.04.424672" class="uri">https://doi.org/10.1101/2021.01.04.424672</a></p>
+<p>Escobar, S. , <strong>Helmstetter, A. J.</strong> , Montúfar, R., Couvreur, T. L. P., &amp; Balslev, H. (2021). Phylogenomic relationships and historical biogeography in the South American vegetable ivory palms (Phytelepheae). <a href="https://doi.org/10.1101/2020.09.03.280941" class="uri">https://doi.org/10.1101/2020.09.03.280941</a> <em>In review</em></p>
+<p><strong>Helmstetter, A. J.</strong>, Glemin, S., Kafer, J., Zenil-Ferguson, R., Sauquet, H., de Boer, H., Mazet, N., Reboud, E. J., Dagallier, L. M. J., Couvreur, T. L. P. &amp; Condamine, F. L. (2021). Pulled Diversification Rates, Lineage-Through-Time Plots and Modern Macroevolutionary Modelling. bioRxiv. <a href="https://doi.org/10.1101/2021.01.04.424672" class="uri">https://doi.org/10.1101/2021.01.04.424672</a> <em>In review</em></p>
+<p>Oztolan-Erol, N., <strong>Helmstetter, A. J.</strong>, Inan, A., Buggs, R. J., &amp; Lucas, S. J. (2021). Unraveling Genetic Diversity amongst European Hazelnut (<em>Corylus avellana</em> L.) Varieties in Turkey. <em>In press</em>, Frontiers in Plant Science. doi: 10.3389/fpls.2021.661274</p>
+<p>Papadopulos, A. S. T., <strong>Helmstetter, A. J.</strong>, Osborne, O. G., Comeault, A. A., Wood, D. P., Straw, E. A., … &amp; Foote, A. D. (2021). Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution. <em>In press</em>, Molecular Biology and Evolution. <a href="https://doi.org/10.1101/2020.08.12.248328" class="uri">https://doi.org/10.1101/2020.08.12.248328</a></p>
 </div>
 <div id="section-1" class="section level4">
 <h4>2020</h4>
 <p><strong>Helmstetter, A. J.</strong>, Béthune, K., Kamdem, N. G., Sonké, B., &amp; Couvreur, T. L. (2020). Individualistic evolutionary responses of Central African rain forest plants to Pleistocene climatic fluctuations. Proceedings of the National Academy of Sciences. <a href="https://doi.org/10.1073/pnas.2001018117" class="uri">https://doi.org/10.1073/pnas.2001018117</a></p>
-<p>Papadopulos, A. S. T., <strong>Helmstetter, A. J.</strong>, Osborne, O. G., Comeault, A. A., Wood, D. P., Straw, E. A., … &amp; Foote, A. D. (2020). Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution. <em>Accepted for publication pending major revisions</em>, Molecular Biology and Evolution. <a href="https://doi.org/10.1101/2020.08.12.248328" class="uri">https://doi.org/10.1101/2020.08.12.248328</a></p>
 <p>Wood, D. P., Holmberg, J. A., Osborne, O. G., <strong>Helmstetter, A. J.</strong>, Dunning, L. T., Ellison, A. R. , Smith, R. J., Lighten, J. &amp; Papadopulos, A. S. T. Overlapping gene sets and correlated expression shifts characterise repeated evolution of zinc-tolerance in Silene uniflora. <em>In review</em></p>
-<p>Escobar, S. , <strong>Helmstetter, A. J.</strong> , Jarvie, S., Montúfar, R., Balslev, H., &amp; Couvreur, T. L. P. (2020). Phylogenomic relationships and historical biogeography in the South American vegetable ivory palms (Phytelepheae). <em>In press</em>, Journal of Biogeography. <a href="https://doi.org/10.1101/2020.09.03.280941" class="uri">https://doi.org/10.1101/2020.09.03.280941</a>.</p>
+<p>Escobar, S. , <strong>Helmstetter, A. J.</strong> , Jarvie, S., Montúfar, R., Balslev, H., &amp; Couvreur, T. L. P. (2020). Pleistocene climatic fluctuations promoted alternative evolutionary histories in <em>Phytelephas aequatorialis</em>, an endemic palm from western Ecuador. Journal of Biogeography, 48(5), 1023-1037. <a href="https://doi.org/10.1101/2020.09.03.280941" class="uri">https://doi.org/10.1101/2020.09.03.280941</a>.</p>
 <p>Schley, R., Pennington, R., Pérez-Escobar, O., <strong>Helmstetter, A. J.</strong>, de la Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., &amp; Klitgård, B. (2020). Introgression across evolutionary scales suggests reticulation contributes to Amazonian tree diversity. Molecular Ecology, 29(21), 4170-4185. <a href="https://doi.org/10.1111/mec.15616" class="uri">https://doi.org/10.1111/mec.15616</a></p>
 <p><strong>Helmstetter, A. J.</strong>, Amoussou, B., Bethune, K., Kamdem, N., Kakai, R., Sonke, B., &amp; Couvreur, T. L. P. (2020). Phylogenomic data reveal how climate shapes patterns of diversity in an African rain forest tree species. Molecular Ecology, 29(18), 3560-3573. <a href="https://doi.org/10.1111/mec.15572" class="uri">https://doi.org/10.1111/mec.15572</a> <strong><a href="10.24072/pci.evolbiol.100094">recommended</a> by PCI</strong></p>
 <p>Brée, B., <strong>Helmstetter, A.J.</strong>, Bethune, K., Ghogue, J.-P., Sonké, B., &amp; Couvreur, T.L.P. (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. <a href="https://doi.org/10.3390/d12060227" class="uri">https://doi.org/10.3390/d12060227</a></p>
 <p><strong>Helmstetter, A. J.</strong>, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., &amp; others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus <em>Raphia</em> (Calamoideae, Arecaceae). Plants, 9(4), 549. <a href="https://doi.org/10.3390/plants9040549" class="uri">https://doi.org/10.3390/plants9040549</a></p>
-<p><strong>Helmstetter, A. J.</strong>, Oztolan-Erol, N., Lucas, S., &amp; Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. Plants, People, Planet, 2(4), 326-339 <a href="https://doi.org/10.1002/ppp3.10078" class="uri">https://doi.org/10.1002/ppp3.10078</a></p>
+<p><strong>Helmstetter, A. J.</strong>, Oztolan-Erol, N., Lucas, S., &amp; Buggs, R. (2020). Genetic diversity and domestication of hazelnut (<em>Corylus avellana</em>) in Turkey. Plants, People, Planet, 2(4), 326-339 <a href="https://doi.org/10.1002/ppp3.10078" class="uri">https://doi.org/10.1002/ppp3.10078</a></p>
 <p><strong>Helmstetter, A. J</strong>., Papadopulos, A., Igea, J., Van Dooren, T (2020). Trait evolution and historical biogeography shape assemblages of annual killifish. <em>In press</em>, Journal of Biogeography. <a href="https://doi.org/10.1111/jbi.13912" class="uri">https://doi.org/10.1111/jbi.13912</a></p>
 <p><strong>Helmstetter, A. J.</strong>, Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W., Baker, W., &amp; Papadopulos, A. (2020). The Demographic History of Micro-endemics: Have Rare Species Always Been Rare. bioRxiv. <a href="https://doi.org/10.1101/2020.03.10.985853" class="uri">https://doi.org/10.1101/2020.03.10.985853</a></p>
 </div>
@@ -388,7 +360,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -406,7 +378,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

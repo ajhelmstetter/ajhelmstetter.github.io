@@ -3,18 +3,22 @@ title: "publications"
 ---
 #### 2021
 
+Escobar, S. , __Helmstetter, A. J.__ ,  Montúfar, R., Couvreur, T. L. P., & Balslev, H. (2021). Phylogenomic relationships and historical biogeography in the South American vegetable ivory palms (Phytelepheae). https://doi.org/10.1101/2020.09.03.280941 *In review*
+
 __Helmstetter, A. J.__, Glemin, S., Kafer, J., Zenil-Ferguson, R., Sauquet, H., de Boer, H., Mazet, N., Reboud, E. J., Dagallier, L. M. J., Couvreur, T. L. P. & Condamine, F. L. (2021). Pulled Diversification Rates, Lineage-Through-Time Plots and Modern Macroevolutionary Modelling. bioRxiv.
-https://doi.org/10.1101/2021.01.04.424672
+https://doi.org/10.1101/2021.01.04.424672 *In review*
+
+Oztolan-Erol, N., __Helmstetter, A. J.__, Inan, A., Buggs, R. J., & Lucas, S. J. (2021). Unraveling Genetic Diversity amongst European Hazelnut (*Corylus avellana* L.) Varieties in Turkey. *In press*, Frontiers in Plant Science. doi: 10.3389/fpls.2021.661274
+
+Papadopulos, A. S. T., __Helmstetter, A. J.__, Osborne, O. G., Comeault, A. A., Wood, D. P., Straw, E. A., ... & Foote, A. D. (2021). Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution. *In press*, Molecular Biology and Evolution. https://doi.org/10.1101/2020.08.12.248328
 
 #### 2020
 
 __Helmstetter, A. J.__, Béthune, K., Kamdem, N. G., Sonké, B., & Couvreur, T. L. (2020). Individualistic evolutionary responses of Central African rain forest plants to Pleistocene climatic fluctuations. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2001018117
 
-Papadopulos, A. S. T., __Helmstetter, A. J.__, Osborne, O. G., Comeault, A. A., Wood, D. P., Straw, E. A., ... & Foote, A. D. (2020). Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution. _Accepted for publication pending major revisions_, Molecular Biology and Evolution. https://doi.org/10.1101/2020.08.12.248328
-
 Wood, D. P., Holmberg,  J. A., Osborne, O. G., __Helmstetter, A. J.__, Dunning, L. T.,  Ellison, A. R. , Smith, R. J., Lighten, J. & Papadopulos, A. S. T. Overlapping gene sets and correlated expression shifts characterise repeated evolution of zinc-tolerance in Silene uniflora. *In review*
 
-Escobar, S. , __Helmstetter, A. J.__ , Jarvie, S., Montúfar, R., Balslev, H., & Couvreur, T. L. P. (2020). Phylogenomic relationships and historical biogeography in the South American vegetable ivory palms (Phytelepheae). *In press*, Journal of Biogeography. https://doi.org/10.1101/2020.09.03.280941.
+Escobar, S. , __Helmstetter, A. J.__ , Jarvie, S., Montúfar, R., Balslev, H., & Couvreur, T. L. P. (2020). Pleistocene climatic fluctuations promoted alternative evolutionary histories in *Phytelephas aequatorialis*, an endemic palm from western Ecuador. Journal of Biogeography, 48(5), 1023-1037. https://doi.org/10.1101/2020.09.03.280941.
 
 Schley, R., Pennington, R., Pérez-Escobar, O., __Helmstetter, A. J.__, de la Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., & Klitgård, B. (2020). Introgression across evolutionary scales suggests reticulation contributes to Amazonian tree diversity. Molecular Ecology, 29(21), 4170-4185. https://doi.org/10.1111/mec.15616
 
@@ -22,9 +26,9 @@ __Helmstetter, A. J.__, Amoussou, B., Bethune, K., Kamdem, N., Kakai, R., Sonke,
 
 Brée, B., __Helmstetter, A.J.__, Bethune, K., Ghogue, J.-P., Sonké, B., & Couvreur, T.L.P. (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. https://doi.org/10.3390/d12060227 
 
-__Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus _Raphia_ (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
+__Helmstetter, A. J.__, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., & others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus *Raphia* (Calamoideae, Arecaceae). Plants, 9(4), 549. https://doi.org/10.3390/plants9040549
 
-__Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (Corylus avellana) in Turkey. Plants, People, Planet, 2(4), 326-339 https://doi.org/10.1002/ppp3.10078
+__Helmstetter, A. J.__, Oztolan-Erol, N., Lucas, S., & Buggs, R. (2020). Genetic diversity and domestication of hazelnut (*Corylus avellana*) in Turkey. Plants, People, Planet, 2(4), 326-339 https://doi.org/10.1002/ppp3.10078
 
 __Helmstetter, A. J__., Papadopulos, A., Igea, J., Van Dooren, T (2020). Trait evolution and historical biogeography shape assemblages of annual killifish. *In press*, Journal of Biogeography.  https://doi.org/10.1111/jbi.13912
 
@@ -51,16 +55,3 @@ Parker, J., __Helmstetter, A. J.__, Devey, D., Wilkinson, T., & Papadopulos, A. 
 #### 2016
 
 __Helmstetter, A. J.__, Papadopulos, A., Igea, J., Van Dooren, T., Leroi, A., & Savolainen, V. (2016). Viviparity stimulates diversification in an order of fish. Nature communications, 7, 11271. https://doi.org/10.1038/ncomms11271.
-
-
-
-
-
-
-
-
-
-
-
-
-
