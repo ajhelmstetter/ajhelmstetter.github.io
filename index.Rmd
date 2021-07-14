@@ -1,5 +1,5 @@
 ---
-pagetitle: "home"
+pagetitle: "andrew helmstetter"
 ---
 
 <div class="col2" style="padding-top:50px">
