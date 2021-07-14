@@ -2,6 +2,12 @@
 pagetitle: "andrew helmstetter"
 ---
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(metathis)
+metathis::meta() %>% 
+  metathis::meta_description("andrew helmstetter")
+```
+
 <div class="col2" style="padding-top:50px">
 
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
