@@ -5,4 +5,12 @@ pagetitle: "blog"
 
 <br></br>
 
-_insert intelligent thoughts and insights here_
+### 9 august 2021 | virtual evolution 2021 presentation
+
+Here's my presentation from virtual evolution 2021 entitled "The state of state-dependent speciation and extinction models : patterns in angiosperm macroevolution."
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M_opj1RmxcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
