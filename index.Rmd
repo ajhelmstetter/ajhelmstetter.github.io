@@ -8,8 +8,10 @@ metathis::meta() %>%
   metathis::meta_description("andrew helmstetter")
 ```
 
-<div class="col2" style="padding-top:50px">
+<div class="col2" style="padding-top:25px">
 
+<div class="row">
+  
 <font size="60" color="grey" style="LINE-HEIGHT:60px">evolutionary biologist</font>
 
 ### latest news
@@ -27,7 +29,10 @@ __[now out](https://doi.org/10.1101/2020.08.12.248328)__ in __MBE__
 *Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution*
 
 <div id="me">
-![](images/me_circle3.png){width=75% style="float:center padding:100px"}
-</div>
+
+![](images/me_circle3.png){width=75% style="float:center padding:50px"}
 
 </div>
+</div>
+</div>
+

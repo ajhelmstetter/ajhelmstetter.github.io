@@ -5,9 +5,23 @@ img {
 }
 
 .col2 {
-  columns: 2 300px;         /* number of columns and width in pixels*/
-  -webkit-columns: 2 300px; /* chrome, safari */
-  -moz-columns: 2 300px;    /* firefox */
+  columns: 2 400px;         /* number of columns and width in pixels*/
+  -webkit-columns: 2 400px; /* chrome, safari */
+  -moz-columns: 2 400px;    /* firefox */
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
 }
 
 table tr td {
