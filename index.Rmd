@@ -14,17 +14,17 @@ metathis::meta() %>%
 
 ### latest news
 
+**24/09/2021**
+
+New __[paper](https://bit.ly/3CA4VP0)__ out in __ProcB__
+
+*The demographic history of Madagascan micro-endemics: have rare species always been rare?*
+
 **09/06/2021**
 
 __[now out](https://doi.org/10.1101/2020.08.12.248328)__ in __MBE__
 
 *Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution*
-
-**04/01/2021**
-
-__new preprint__ on __[biorxiv](https://doi.org/10.1101/2021.01.04.424672)__
-
-*Pulled Diversification Rates, Lineage-Through-Time Plots and Modern Macroevolutionary Modelling* - a point of view paper on [Louca & Pennell, 2020](https://doi.org/10.1038/s41586-020-2176-1)
 
 <div id="me">
 ![](images/me_circle3.png){width=75% style="float:center padding:100px"}
