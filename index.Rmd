@@ -16,21 +16,21 @@ metathis::meta() %>%
 
 ### latest news
 
+**06/10/2021**
+
+__[advance access](https://doi.org/10.1093/sysbio/syab083)__ in __Systematic Biology__
+
+*Pulled Diversification Rates, Lineages-Through-Time Plots and Modern Macroevolutionary Modelling*
+
 **24/09/2021**
 
-New __[paper](https://bit.ly/3CA4VP0)__ out in __ProcB__
+__[new paper](https://bit.ly/3CA4VP0)__ out in __ProcB__
 
 *The demographic history of Madagascan micro-endemics: have rare species always been rare?*
 
-**09/06/2021**
-
-__[now out](https://doi.org/10.1101/2020.08.12.248328)__ in __MBE__
-
-*Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution*
-
 <div id="me">
 
-![](images/me_circle3.png){width=75% style="float:center padding:50px"}
+![](images/me_circle3.png){width=65% style="float:center padding:50px"}
 
 </div>
 </div>

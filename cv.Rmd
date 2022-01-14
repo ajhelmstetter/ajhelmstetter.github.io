@@ -10,7 +10,6 @@ title: "brief curriculum vitae"
 * __2018-2020__ Postdoctoral Researcher, Institut de recherche pour le développement (IRD), Montpellier
 * __2016-2018__ Postdoctoral Research Fellow, Royal Botanic Gardens, Kew
 
-
 #### education
 
 * __2011-2015__ NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London
@@ -33,7 +32,7 @@ title: "brief curriculum vitae"
 * Member of the European Society for Evolutionary Biology
 * Member of [Phylosynth](https://phylosynth.github.io/)
 * Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution
-* Reviewer for: Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution, Forests, Annals of Botany
+* Reviewer for: Molecular Ecology, New Phytologist, Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution, Forests, Annals of Botany
 
 #### outreach
 
