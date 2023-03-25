@@ -6,7 +6,7 @@ title: "publications"
 
 Anderson, B., Pannell, J., Billiard, S., Burgarella, C., de Boer, H., Dufay, M., __Helmstetter, A. J.__ ... & Glémin, S. (2023). Opposing effects of plant traits on diversification. *In press*, iScience. https://doi.org/10.1016/j.isci.2023.106362.
 
-__Helmstetter, A. J.__, Zenil-Ferguson, R., Sauquet, H., Otto, S. P., Mendez, M., Vallejo-Marin, M., Schoenenberger, J., Burgarella, C., Anderson, B., de Boer, H., Glemin, S. & Kafer, J. (2022). Trait-dependent diversification in angiosperms: patterns, models and data. *In press*, Ecology Letters. 
+__Helmstetter, A. J.__, Zenil-Ferguson, R., Sauquet, H., Otto, S. P., Mendez, M., Vallejo-Marin, M., Schoenenberger, J., Burgarella, C., Anderson, B., de Boer, H., Glemin, S. & Kafer, J. (2022). Trait-dependent diversification in angiosperms: patterns, models and data. *In press*, Ecology Letters. https://doi.org/10.1111/ele.14170
 
 Wood, D. P., Holmberg, J. A., Osborne, O. G., __Helmstetter, A. J.__, Dunning, L. T., Ellison, A. R., ... & Papadopulos, A. S. (2023). Genetic assimilation of ancestral plasticity during parallel adaptation to zinc contamination in Silene uniflora. Nature Ecology & Evolution, 1-10. https://doi.org/10.1038/s41559-022-01975-w
 
