@@ -13,8 +13,8 @@
 
 <title>brief curriculum vitae</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -269,13 +270,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:andrew.j.helmstetter@gmail.com">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://scholar.google.com/citations?user=Ye-lhkIAAAAJ&amp;hl=en">
-    <span class="fas fa-graduation-cap fa-lg"></span>
+    <span class="fa fa-graduation-cap fa-lg"></span>
      
   </a>
 </li>
@@ -311,52 +312,78 @@ $(document).ready(function () {
 </div>
 
 
-<p><a href="./files/ajhelmstetter_cv.pdf">download</a> my full cv (Updated December 2020)</p>
+<p><a href="./files/ajhelmstetter_cv.pdf">download</a> my full cv
+(Updated December 2020)</p>
 <div id="employment" class="section level4">
 <h4>employment</h4>
 <ul>
-<li><strong>2020-Present</strong> Postdoctoral Researcher, Centre for the Synthesis and Analysis of Biodiversity (CESAB), French Foundation for Biodiversity Research (FRB), Montpellier</li>
-<li><strong>2018-2020</strong> Postdoctoral Researcher, Institut de recherche pour le développement (IRD), Montpellier</li>
-<li><strong>2016-2018</strong> Postdoctoral Research Fellow, Royal Botanic Gardens, Kew</li>
+<li><strong>2020-Present</strong> Postdoctoral Researcher, Centre for
+the Synthesis and Analysis of Biodiversity (CESAB), French Foundation
+for Biodiversity Research (FRB), Montpellier</li>
+<li><strong>2018-2020</strong> Postdoctoral Researcher, Institut de
+recherche pour le développement (IRD), Montpellier</li>
+<li><strong>2016-2018</strong> Postdoctoral Research Fellow, Royal
+Botanic Gardens, Kew</li>
 </ul>
 </div>
 <div id="education" class="section level4">
 <h4>education</h4>
 <ul>
-<li><strong>2011-2015</strong> NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London</li>
-<li><strong>2007-2011</strong> 4 year MBiolSci Degree, Department of Animal &amp; Plant Sciences, University of Sheffield</li>
-<li><strong>2000-2007</strong> King Edward VI Grammar School, Chelmsford, Essex</li>
+<li><strong>2011-2015</strong> NERC-funded PhD Studentship, Department
+of Life Sciences, Silwood Park, Imperial College London</li>
+<li><strong>2007-2011</strong> 4 year MBiolSci Degree, Department of
+Animal &amp; Plant Sciences, University of Sheffield</li>
+<li><strong>2000-2007</strong> King Edward VI Grammar School,
+Chelmsford, Essex</li>
 </ul>
 </div>
 <div id="courses" class="section level4">
 <h4>courses</h4>
 <ul>
-<li><strong>2019</strong> Advanced computer cluster use, IRD Montpellier</li>
-<li><strong>2018</strong> Phylogenomics Software Symposium. University of Montpellier.</li>
-<li><strong>2017</strong> Plant Health: Challenges and Solutions Antalya, Turkey.</li>
-<li><strong>2012</strong> RAD-seq methodologies for ecological and evolutionary studies</li>
-<li><strong>2012</strong> Generalised Linear Modelling in R, Imperial College London</li>
+<li><strong>2019</strong> Advanced computer cluster use, IRD
+Montpellier</li>
+<li><strong>2018</strong> Phylogenomics Software Symposium. University
+of Montpellier.</li>
+<li><strong>2017</strong> Plant Health: Challenges and Solutions
+Antalya, Turkey.</li>
+<li><strong>2012</strong> RAD-seq methodologies for ecological and
+evolutionary studies</li>
+<li><strong>2012</strong> Generalised Linear Modelling in R, Imperial
+College London</li>
 </ul>
 </div>
 <div id="grants-awards-and-memberships" class="section level4">
 <h4>grants, awards and memberships</h4>
 <ul>
-<li><strong>2014</strong> Best Presentation Prize at the 16th Young Systematists’ Forum at the Natural History Museum, London</li>
+<li><strong>2014</strong> Best Presentation Prize at the 16th Young
+Systematists’ Forum at the Natural History Museum, London</li>
 <li><strong>2011-2015</strong> NERC PhD Studentship</li>
-<li><strong>2010</strong> Research Bursary from the Sheffield Undergraduate Research Education scheme.</li>
+<li><strong>2010</strong> Research Bursary from the Sheffield
+Undergraduate Research Education scheme.</li>
 <li>Member of the European Society for Evolutionary Biology</li>
-<li>Member of <a href="https://phylosynth.github.io/">Phylosynth</a></li>
-<li>Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution</li>
-<li>Reviewer for: Molecular Ecology, New Phytologist, Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution, Forests, Annals of Botany</li>
+<li>Member of <a
+href="https://phylosynth.github.io/">Phylosynth</a></li>
+<li>Reviews editor for Frontiers in Plant Science: Plant Systematics and
+Evolution</li>
+<li>Reviewer for: Molecular Ecology, New Phytologist, Evolution, BMC
+Evolutionary Biology, Peer community in Evolutionary Biology, Plant
+Systematics and Evolution, Forests, Annals of Botany</li>
 </ul>
 </div>
 <div id="outreach" class="section level4">
 <h4>outreach</h4>
 <ul>
-<li><strong>2016</strong> Kew Science Festival. Species identification, DNA extraction and real-time DNA sequencing.</li>
-<li><strong>2015</strong> “Bugs Day” Festival Imperial College London. DNA extraction hands-on with children.</li>
-<li><strong>2011</strong> Published an account of a collection expedition to Uruguay in the bi-monthly journal of the <a href="https://killis.org.uk/wp/">British Killifish Association</a>, Killi-news.</li>
-<li><strong>2011</strong> Wrote an <a href="https://blog.rsb.org.uk/why-do-some-lakes-have-a-greater-diversity-of-cichlid-fish/">article</a> for the Society of Biology on adaptive radiations in cichlids</li>
+<li><strong>2016</strong> Kew Science Festival. Species identification,
+DNA extraction and real-time DNA sequencing.</li>
+<li><strong>2015</strong> “Bugs Day” Festival Imperial College London.
+DNA extraction hands-on with children.</li>
+<li><strong>2011</strong> Published an account of a collection
+expedition to Uruguay in the bi-monthly journal of the <a
+href="https://killis.org.uk/wp/">British Killifish Association</a>,
+Killi-news.</li>
+<li><strong>2011</strong> Wrote an <a
+href="https://blog.rsb.org.uk/why-do-some-lakes-have-a-greater-diversity-of-cichlid-fish/">article</a>
+for the Society of Biology on adaptive radiations in cichlids</li>
 </ul>
 </div>
 

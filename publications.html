@@ -13,8 +13,8 @@
 
 <title>publications</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -269,13 +270,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:andrew.j.helmstetter@gmail.com">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://scholar.google.com/citations?user=Ye-lhkIAAAAJ&amp;hl=en">
-    <span class="fas fa-graduation-cap fa-lg"></span>
+    <span class="fa fa-graduation-cap fa-lg"></span>
      
   </a>
 </li>
@@ -312,43 +313,167 @@ $(document).ready(function () {
 
 
 <div id="section" class="section level4">
-<h4>2021</h4>
-<p>Escobar, S. , <strong>Helmstetter, A. J.</strong> , Montúfar, R., Couvreur, T. L. P., &amp; Balslev, H. (2021). Phylogenomic relationships and historical biogeography in the South American vegetable ivory palms (Phytelepheae). <a href="https://doi.org/10.1101/2020.09.03.280941" class="uri">https://doi.org/10.1101/2020.09.03.280941</a> <em>In review</em></p>
-<p><strong>Helmstetter, A. J.</strong>, Glemin, S., Kafer, J., Zenil-Ferguson, R., Sauquet, H., de Boer, H., Mazet, N., Reboud, E. J., Dagallier, L. M. J., Couvreur, T. L. P. &amp; Condamine, F. L. (2021). Pulled Diversification Rates, Lineage-Through-Time Plots and Modern Macroevolutionary Modelling. bioRxiv. <a href="https://doi.org/10.1101/2021.01.04.424672" class="uri">https://doi.org/10.1101/2021.01.04.424672</a> <em>In review</em></p>
-<p>Oztolan-Erol, N., <strong>Helmstetter, A. J.</strong>, Inan, A., Buggs, R. J., &amp; Lucas, S. J. (2021). Unraveling Genetic Diversity amongst European Hazelnut (<em>Corylus avellana</em> L.) Varieties in Turkey. <em>In press</em>, Frontiers in Plant Science. doi: 10.3389/fpls.2021.661274</p>
-<p>Papadopulos, A. S. T., <strong>Helmstetter, A. J.</strong>, Osborne, O. G., Comeault, A. A., Wood, D. P., Straw, E. A., … &amp; Foote, A. D. (2021). Rapid Parallel Adaptation to Anthropogenic Heavy Metal Pollution. <em>In press</em>, Molecular Biology and Evolution. <a href="https://doi.org/10.1101/2020.08.12.248328" class="uri">https://doi.org/10.1101/2020.08.12.248328</a></p>
+<h4>2023</h4>
+<p>Anderson, B., Pannell, J., Billiard, S., Burgarella, C., de Boer, H.,
+Dufay, M., <strong>Helmstetter, A. J.</strong> … &amp; Glémin, S.
+(2023). Opposing effects of plant traits on diversification. <em>In
+press</em>, iScience. <a
+href="https://doi.org/10.1016/j.isci.2023.106362"
+class="uri">https://doi.org/10.1016/j.isci.2023.106362</a>.</p>
+<p><strong>Helmstetter, A. J.</strong>, Zenil-Ferguson, R., Sauquet, H.,
+Otto, S. P., Mendez, M., Vallejo-Marin, M., Schoenenberger, J.,
+Burgarella, C., Anderson, B., de Boer, H., Glemin, S. &amp; Kafer, J.
+(2022). Trait-dependent diversification in angiosperms: patterns, models
+and data. <em>In press</em>, Ecology Letters.</p>
+<p>Wood, D. P., Holmberg, J. A., Osborne, O. G., <strong>Helmstetter, A.
+J.</strong>, Dunning, L. T., Ellison, A. R., … &amp; Papadopulos, A. S.
+(2023). Genetic assimilation of ancestral plasticity during parallel
+adaptation to zinc contamination in Silene uniflora. Nature Ecology
+&amp; Evolution, 1-10. <a
+href="https://doi.org/10.1038/s41559-022-01975-w"
+class="uri">https://doi.org/10.1038/s41559-022-01975-w</a></p>
 </div>
 <div id="section-1" class="section level4">
-<h4>2020</h4>
-<p><strong>Helmstetter, A. J.</strong>, Béthune, K., Kamdem, N. G., Sonké, B., &amp; Couvreur, T. L. (2020). Individualistic evolutionary responses of Central African rain forest plants to Pleistocene climatic fluctuations. Proceedings of the National Academy of Sciences. <a href="https://doi.org/10.1073/pnas.2001018117" class="uri">https://doi.org/10.1073/pnas.2001018117</a></p>
-<p>Wood, D. P., Holmberg, J. A., Osborne, O. G., <strong>Helmstetter, A. J.</strong>, Dunning, L. T., Ellison, A. R. , Smith, R. J., Lighten, J. &amp; Papadopulos, A. S. T. Overlapping gene sets and correlated expression shifts characterise repeated evolution of zinc-tolerance in Silene uniflora. <em>In review</em></p>
-<p>Escobar, S. , <strong>Helmstetter, A. J.</strong> , Jarvie, S., Montúfar, R., Balslev, H., &amp; Couvreur, T. L. P. (2020). Pleistocene climatic fluctuations promoted alternative evolutionary histories in <em>Phytelephas aequatorialis</em>, an endemic palm from western Ecuador. Journal of Biogeography, 48(5), 1023-1037. <a href="https://doi.org/10.1101/2020.09.03.280941" class="uri">https://doi.org/10.1101/2020.09.03.280941</a>.</p>
-<p>Schley, R., Pennington, R., Pérez-Escobar, O., <strong>Helmstetter, A. J.</strong>, de la Estrella, M., Larridon, I., Kikuchi, I., Barraclough, T., Forest, F., &amp; Klitgård, B. (2020). Introgression across evolutionary scales suggests reticulation contributes to Amazonian tree diversity. Molecular Ecology, 29(21), 4170-4185. <a href="https://doi.org/10.1111/mec.15616" class="uri">https://doi.org/10.1111/mec.15616</a></p>
-<p><strong>Helmstetter, A. J.</strong>, Amoussou, B., Bethune, K., Kamdem, N., Kakai, R., Sonke, B., &amp; Couvreur, T. L. P. (2020). Phylogenomic data reveal how climate shapes patterns of diversity in an African rain forest tree species. Molecular Ecology, 29(18), 3560-3573. <a href="https://doi.org/10.1111/mec.15572" class="uri">https://doi.org/10.1111/mec.15572</a> <strong><a href="10.24072/pci.evolbiol.100094">recommended</a> by PCI</strong></p>
-<p>Brée, B., <strong>Helmstetter, A.J.</strong>, Bethune, K., Ghogue, J.-P., Sonké, B., &amp; Couvreur, T.L.P. (2020). Diversification of African Rainforest Restricted Clades: Piptostigmateae and Annickieae (Annonaceae). Diversity, 12, 227. <a href="https://doi.org/10.3390/d12060227" class="uri">https://doi.org/10.3390/d12060227</a></p>
-<p><strong>Helmstetter, A. J.</strong>, Kamga, S., Bethune, K., Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F., Antonelli, A., Sonké, B., &amp; others (2020). Unraveling the Phylogenomic Relationships of the Most Diverse African Palm Genus <em>Raphia</em> (Calamoideae, Arecaceae). Plants, 9(4), 549. <a href="https://doi.org/10.3390/plants9040549" class="uri">https://doi.org/10.3390/plants9040549</a></p>
-<p><strong>Helmstetter, A. J.</strong>, Oztolan-Erol, N., Lucas, S., &amp; Buggs, R. (2020). Genetic diversity and domestication of hazelnut (<em>Corylus avellana</em>) in Turkey. Plants, People, Planet, 2(4), 326-339 <a href="https://doi.org/10.1002/ppp3.10078" class="uri">https://doi.org/10.1002/ppp3.10078</a></p>
-<p><strong>Helmstetter, A. J</strong>., Papadopulos, A., Igea, J., Van Dooren, T (2020). Trait evolution and historical biogeography shape assemblages of annual killifish. <em>In press</em>, Journal of Biogeography. <a href="https://doi.org/10.1111/jbi.13912" class="uri">https://doi.org/10.1111/jbi.13912</a></p>
-<p><strong>Helmstetter, A. J.</strong>, Cable, S., Rakotonasolo, F., Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W., Baker, W., &amp; Papadopulos, A. (2020). The Demographic History of Micro-endemics: Have Rare Species Always Been Rare. bioRxiv. <a href="https://doi.org/10.1101/2020.03.10.985853" class="uri">https://doi.org/10.1101/2020.03.10.985853</a></p>
+<h4>2022</h4>
+<p><strong>Helmstetter, A. J.</strong>, Glemin, S., Käfer, J.,
+Zenil-Ferguson, R., Sauquet, H., de Boer, H., … &amp; Condamine, F. L.
+(2022). Pulled diversification rates, lineages-through-time plots, and
+modern macroevolutionary modeling. Systematic Biology, 71(3), 758-773.
+<a href="https://doi.org/10.1093/sysbio/syab083"
+class="uri">https://doi.org/10.1093/sysbio/syab083</a></p>
+<p>Escobar, S., <strong>Helmstetter, A. J.</strong>, Montúfar, R.,
+Couvreur, T. L., &amp; Balslev, H. (2022). Phylogenomic relationships
+and historical biogeography in the South American vegetable ivory palms
+(Phytelepheae). Molecular Phylogenetics and Evolution, 166, 107314. <a
+href="https://doi.org/10.1016/j.ympev.2021.107314"
+class="uri">https://doi.org/10.1016/j.ympev.2021.107314</a></p>
 </div>
 <div id="section-2" class="section level4">
-<h4>2019</h4>
-<p>Couvreur, T. L. P.*, <strong>Helmstetter, A. J.</strong>*, Koenen, E., Bethune, K., Brandao, R., Little, S., Sauquet, H., &amp; Erkens, R. (2019). Phylogenomics of the major tropical plant family Annonaceae using targeted enrichment of nuclear genes. Frontiers in plant science, 9, 1941. <a href="https://doi.org/10.3389/fpls.2018.01941" class="uri">https://doi.org/10.3389/fpls.2018.01941</a> * <strong><em>joint first author</em></strong></p>
-<p><strong>Helmstetter, A. J.</strong>, Buggs, R., &amp; Lucas, S. (2019). Repeated long-distance dispersal and convergent evolution in hazel. Scientific reports, 9(1), 1–12. <a href="https://doi.org/10.1038/s41598-019-52403-2" class="uri">https://doi.org/10.1038/s41598-019-52403-2</a></p>
-<p><strong>Helmstetter, A. J.</strong>, &amp; Van Dooren, T. (2019). Determinants of growth and body size in Austrolebias South-American annual killifish. bioRxiv. <a href="https://doi.org/10.1101/2019.12.31.891648" class="uri">https://doi.org/10.1101/2019.12.31.891648</a></p>
+<h4>2021</h4>
+<p><strong>Helmstetter, A. J.</strong>, Cable, S., Rakotonasolo, F.,
+Rabarijaona, R., Rakotoarinivo, M., Eiserhardt, W. L., … &amp;
+Papadopulos, A. S. (2021). The demographic history of Madagascan
+micro-endemics: have rare species always been rare?. Proceedings of the
+Royal Society B, 288(1959), 20210957. <a
+href="https://doi.org/10.1098/rspb.2021.0957"
+class="uri">https://doi.org/10.1098/rspb.2021.0957</a></p>
+<p>Oztolan-Erol, N., <strong>Helmstetter, A. J.</strong>, İnan, A.,
+Buggs, R. J., &amp; Lucas, S. J. (2021). Unraveling genetic diversity
+amongst European hazelnut (Corylus avellana L.) varieties in Turkey.
+Frontiers in plant science, 12, 661274. <a
+href="https://doi.org/10.3389/fpls.2021.661274"
+class="uri">https://doi.org/10.3389/fpls.2021.661274</a></p>
+<p>Papadopulos, A. S., <strong>Helmstetter, A. J.</strong>, Osborne, O.
+G., Comeault, A. A., Wood, D. P., Straw, E. A., … &amp; Lighten, J.
+(2021). Rapid parallel adaptation to anthropogenic heavy metal
+pollution. Molecular biology and evolution, 38(9), 3724-3736. <a
+href="https://doi.org/10.1093/molbev/msab141"
+class="uri">https://doi.org/10.1093/molbev/msab141</a></p>
+<p>Escobar, S., <strong>Helmstetter, A. J.</strong>, Jarvie, S.,
+Montúfar, R., Balslev, H., &amp; Couvreur, T. L. (2021). Pleistocene
+climatic fluctuations promoted alternative evolutionary histories in
+Phytelephas aequatorialis, an endemic palm from western Ecuador. Journal
+of Biogeography, 48(5), 1023-1037. <a
+href="https://doi.org/10.1111/jbi.14055"
+class="uri">https://doi.org/10.1111/jbi.14055</a></p>
 </div>
 <div id="section-3" class="section level4">
-<h4>2018</h4>
-<p>Parker, J., <strong>Helmstetter, A. J.</strong>, &amp; Papadopulos, A. (2018). Rapid, raw-read reference and identification (R4IDs): A flexible platform for rapid generic species ID using long-read sequencing technology. bioRxiv, 281048. <a href="https://doi.org/10.1101/281048" class="uri">https://doi.org/10.1101/281048</a></p>
-<p>Van Dooren, T., Thomassen, H., Smit, F., <strong>Helmstetter, A. J.</strong>, &amp; Savolainen, V. (2018). Scope for sympatric giant-dwarf speciation driven by cannibalism in South-American annual killifish (Austrolebias). bioRxiv, 121806. <a href="https://doi.org/10.1101/121806" class="uri">https://doi.org/10.1101/121806</a></p>
+<h4>2020</h4>
+<p><strong>Helmstetter, A. J.</strong>, Béthune, K., Kamdem, N. G.,
+Sonké, B., &amp; Couvreur, T. L. (2020). Individualistic evolutionary
+responses of Central African rain forest plants to Pleistocene climatic
+fluctuations. Proceedings of the National Academy of Sciences. <a
+href="https://doi.org/10.1073/pnas.2001018117"
+class="uri">https://doi.org/10.1073/pnas.2001018117</a></p>
+<p>Schley, R., Pennington, R., Pérez-Escobar, O., <strong>Helmstetter,
+A. J.</strong>, de la Estrella, M., Larridon, I., Kikuchi, I.,
+Barraclough, T., Forest, F., &amp; Klitgård, B. (2020). Introgression
+across evolutionary scales suggests reticulation contributes to
+Amazonian tree diversity. Molecular Ecology, 29(21), 4170-4185. <a
+href="https://doi.org/10.1111/mec.15616"
+class="uri">https://doi.org/10.1111/mec.15616</a></p>
+<p><strong>Helmstetter, A. J.</strong>, Amoussou, B., Bethune, K.,
+Kamdem, N., Kakai, R., Sonke, B., &amp; Couvreur, T. L. P. (2020).
+Phylogenomic data reveal how climate shapes patterns of diversity in an
+African rain forest tree species. Molecular Ecology, 29(18), 3560-3573.
+<a href="https://doi.org/10.1111/mec.15572"
+class="uri">https://doi.org/10.1111/mec.15572</a> <strong><a
+href="10.24072/pci.evolbiol.100094">recommended</a> by PCI</strong></p>
+<p>Brée, B., <strong>Helmstetter, A.J.</strong>, Bethune, K., Ghogue,
+J.-P., Sonké, B., &amp; Couvreur, T.L.P. (2020). Diversification of
+African Rainforest Restricted Clades: Piptostigmateae and Annickieae
+(Annonaceae). Diversity, 12, 227. <a
+href="https://doi.org/10.3390/d12060227"
+class="uri">https://doi.org/10.3390/d12060227</a></p>
+<p><strong>Helmstetter, A. J.</strong>, Kamga, S., Bethune, K.,
+Lautenschläger, T., Zizka, A., Bacon, C., Wieringa, J., Stauffer, F.,
+Antonelli, A., Sonké, B., &amp; others (2020). Unraveling the
+Phylogenomic Relationships of the Most Diverse African Palm Genus
+<em>Raphia</em> (Calamoideae, Arecaceae). Plants, 9(4), 549. <a
+href="https://doi.org/10.3390/plants9040549"
+class="uri">https://doi.org/10.3390/plants9040549</a></p>
+<p><strong>Helmstetter, A. J.</strong>, Oztolan-Erol, N., Lucas, S.,
+&amp; Buggs, R. (2020). Genetic diversity and domestication of hazelnut
+(<em>Corylus avellana</em>) in Turkey. Plants, People, Planet, 2(4),
+326-339 <a href="https://doi.org/10.1002/ppp3.10078"
+class="uri">https://doi.org/10.1002/ppp3.10078</a></p>
+<p><strong>Helmstetter, A. J</strong>., Papadopulos, A., Igea, J., Van
+Dooren, T (2020). Trait evolution and historical biogeography shape
+assemblages of annual killifish. <em>In press</em>, Journal of
+Biogeography. <a href="https://doi.org/10.1111/jbi.13912"
+class="uri">https://doi.org/10.1111/jbi.13912</a></p>
 </div>
 <div id="section-4" class="section level4">
-<h4>2017</h4>
-<p>Parker, J., <strong>Helmstetter, A. J.</strong>, Devey, D., Wilkinson, T., &amp; Papadopulos, A. (2017). Field-based species identification of closely-related plants using real-time nanopore sequencing. Scientific reports, 7(1), 1–8. <a href="https://doi.org/10.1038/s41598-017-08461-5" class="uri">https://doi.org/10.1038/s41598-017-08461-5</a></p>
+<h4>2019</h4>
+<p>Couvreur, T. L. P.*, <strong>Helmstetter, A. J.</strong>*, Koenen,
+E., Bethune, K., Brandao, R., Little, S., Sauquet, H., &amp; Erkens, R.
+(2019). Phylogenomics of the major tropical plant family Annonaceae
+using targeted enrichment of nuclear genes. Frontiers in plant science,
+9, 1941. <a href="https://doi.org/10.3389/fpls.2018.01941"
+class="uri">https://doi.org/10.3389/fpls.2018.01941</a> *
+<strong><em>joint first author</em></strong></p>
+<p><strong>Helmstetter, A. J.</strong>, Buggs, R., &amp; Lucas, S.
+(2019). Repeated long-distance dispersal and convergent evolution in
+hazel. Scientific reports, 9(1), 1–12. <a
+href="https://doi.org/10.1038/s41598-019-52403-2"
+class="uri">https://doi.org/10.1038/s41598-019-52403-2</a></p>
+<p><strong>Helmstetter, A. J.</strong>, &amp; Van Dooren, T. (2019).
+Determinants of growth and body size in Austrolebias South-American
+annual killifish. bioRxiv. <a
+href="https://doi.org/10.1101/2019.12.31.891648"
+class="uri">https://doi.org/10.1101/2019.12.31.891648</a></p>
 </div>
 <div id="section-5" class="section level4">
+<h4>2018</h4>
+<p>Parker, J., <strong>Helmstetter, A. J.</strong>, &amp; Papadopulos,
+A. (2018). Rapid, raw-read reference and identification (R4IDs): A
+flexible platform for rapid generic species ID using long-read
+sequencing technology. bioRxiv, 281048. <a
+href="https://doi.org/10.1101/281048"
+class="uri">https://doi.org/10.1101/281048</a></p>
+<p>Van Dooren, T., Thomassen, H., Smit, F., <strong>Helmstetter, A.
+J.</strong>, &amp; Savolainen, V. (2018). Scope for sympatric
+giant-dwarf speciation driven by cannibalism in South-American annual
+killifish (Austrolebias). bioRxiv, 121806. <a
+href="https://doi.org/10.1101/121806"
+class="uri">https://doi.org/10.1101/121806</a></p>
+</div>
+<div id="section-6" class="section level4">
+<h4>2017</h4>
+<p>Parker, J., <strong>Helmstetter, A. J.</strong>, Devey, D.,
+Wilkinson, T., &amp; Papadopulos, A. (2017). Field-based species
+identification of closely-related plants using real-time nanopore
+sequencing. Scientific reports, 7(1), 1–8. <a
+href="https://doi.org/10.1038/s41598-017-08461-5"
+class="uri">https://doi.org/10.1038/s41598-017-08461-5</a></p>
+</div>
+<div id="section-7" class="section level4">
 <h4>2016</h4>
-<p><strong>Helmstetter, A. J.</strong>, Papadopulos, A., Igea, J., Van Dooren, T., Leroi, A., &amp; Savolainen, V. (2016). Viviparity stimulates diversification in an order of fish. Nature communications, 7, 11271. <a href="https://doi.org/10.1038/ncomms11271" class="uri">https://doi.org/10.1038/ncomms11271</a>.</p>
+<p><strong>Helmstetter, A. J.</strong>, Papadopulos, A., Igea, J., Van
+Dooren, T., Leroi, A., &amp; Savolainen, V. (2016). Viviparity
+stimulates diversification in an order of fish. Nature communications,
+7, 11271. <a href="https://doi.org/10.1038/ncomms11271"
+class="uri">https://doi.org/10.1038/ncomms11271</a>.</p>
 </div>
 
 

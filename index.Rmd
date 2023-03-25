@@ -16,17 +16,11 @@ metathis::meta() %>%
 
 ### latest news
 
-**06/10/2021**
+**25/03/2023**
 
-__[advance access](https://doi.org/10.1093/sysbio/syab083)__ in __Systematic Biology__
+__[advance access](https://www.cell.com/iscience/pdf/S2589-0042(23)00439-X.pdf)__ in __iScience__ : *"Opposing effects of plant traits on diversification"*
 
-*Pulled Diversification Rates, Lineages-Through-Time Plots and Modern Macroevolutionary Modelling*
-
-**24/09/2021**
-
-__[new paper](https://bit.ly/3CA4VP0)__ out in __ProcB__
-
-*The demographic history of Madagascan micro-endemics: have rare species always been rare?*
+__[Out now](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.14170)__ out in __Ecology Letters__ : *"Trait-dependent diversification in angiosperms: patterns, models and data"*
 
 <div id="me">
 
