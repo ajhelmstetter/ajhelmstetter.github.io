@@ -16,11 +16,13 @@ metathis::meta() %>%
 
 ### latest news
 
-**25/03/2023**
+**06/03/2024**
 
-__[advance access](https://www.cell.com/iscience/pdf/S2589-0042(23)00439-X.pdf)__ in __iScience__ : *"Opposing effects of plant traits on diversification"*
+Reproductive strategies of angiosperms __[preprint](https://doi.org/10.1101/2024.02.26.582019)__
 
-__[Out now](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.14170)__ out in __Ecology Letters__ : *"Trait-dependent diversification in angiosperms: patterns, models and data"*
+New __[preprint](https://doi.org/10.1101/2024.01.09.574948)__: "Towards a phylogenomic classification of Magnoliidae"
+
+Our __[viewpoint](https://doi.org/10.22541/au.169868591.11596604/v1)__ on how ECRs can help improve the current publishing system soon out in *Ecology Letters*
 
 <div id="me">
 

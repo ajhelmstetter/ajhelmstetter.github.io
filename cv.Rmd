@@ -2,11 +2,12 @@
 title: "brief curriculum vitae"
 ---
 
-[download](./files/ajhelmstetter_cv.pdf) my full cv (Updated December 2020)
+[download](./files/ajhelmstetter_cv.pdf) my full cv (Updated December 2023)
 
 #### employment
 
-* __2020-Present__ Postdoctoral Researcher, Centre for the Synthesis and Analysis of Biodiversity (CESAB), French Foundation for Biodiversity Research (FRB), Montpellier
+* __2024-present__ Non-permanent Researcher, Institute of Evolutionary Science of Montpellier (ISEM)
+* __2020-2023__ Postdoctoral Researcher, Centre for the Synthesis and Analysis of Biodiversity (CESAB), French Foundation for Biodiversity Research (FRB), Montpellier
 * __2018-2020__ Postdoctoral Researcher, Institut de recherche pour le développement (IRD), Montpellier
 * __2016-2018__ Postdoctoral Research Fellow, Royal Botanic Gardens, Kew
 
@@ -15,28 +16,3 @@ title: "brief curriculum vitae"
 * __2011-2015__ NERC-funded PhD Studentship, Department of Life Sciences, Silwood Park, Imperial College London
 * __2007-2011__ 4 year MBiolSci Degree, Department of Animal & Plant Sciences, University of Sheffield
 * __2000-2007__ King Edward VI Grammar School, Chelmsford, Essex
-
-#### courses
-
-* __2019__ Advanced computer cluster use, IRD Montpellier
-* __2018__ Phylogenomics Software Symposium. University of Montpellier.
-* __2017__ Plant Health: Challenges and Solutions Antalya, Turkey.
-* __2012__ RAD-seq methodologies for ecological and evolutionary studies
-* __2012__ Generalised Linear Modelling in R, Imperial College London
-
-#### grants, awards and memberships
-
-* __2014__ Best Presentation Prize at the 16th Young Systematists' Forum at the Natural History Museum, London
-* __2011-2015__ NERC PhD Studentship
-* __2010__ Research Bursary from the Sheffield Undergraduate Research Education scheme.
-* Member of the European Society for Evolutionary Biology
-* Member of [Phylosynth](https://phylosynth.github.io/)
-* Reviews editor for Frontiers in Plant Science: Plant Systematics and Evolution
-* Reviewer for: Molecular Ecology, New Phytologist, Evolution, BMC Evolutionary Biology, Peer community in Evolutionary Biology, Plant Systematics and Evolution, Forests, Annals of Botany
-
-#### outreach
-
-* __2016__ Kew Science Festival. Species identification, DNA extraction and real-time DNA sequencing.
-* __2015__ “Bugs Day” Festival Imperial College London. DNA extraction hands-on with children.
-* __2011__ Published an account of a collection expedition to Uruguay in the bi-monthly journal of the [British Killifish Association](https://killis.org.uk/wp/), Killi-news.
-* __2011__ Wrote an [article](https://blog.rsb.org.uk/why-do-some-lakes-have-a-greater-diversity-of-cichlid-fish/) for the Society of Biology on adaptive radiations in cichlids

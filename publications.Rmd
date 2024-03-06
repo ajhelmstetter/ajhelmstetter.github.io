@@ -2,11 +2,19 @@
 title: "publications"
 ---
 
+#### 2024
+
+__Helmstetter, A. J.__, Mendez, M., Schonenberger, J., Burgarella, C., Anderson, B., Balthazar, M. V., ... & Kafer, J. (2024). Traits related to pollination and mating result in diverse reproductive strategies in angiosperms. bioRxiv, 2024-02. https://doi.org/10.1101/2024.02.26.582019
+
+__Helmstetter, A. J.__, Ezedin, Z., Lirio, E. J. D., Oliveira, S. M. D., Chatrou, L. W., Erkens, R. H., ... & Sauquet, H. (2024). Towards a phylogenomic classification of Magnoliidae. bioRxiv, 2024-01. https://doi.org/10.1101/2024.01.09.574948
+
+Receveur, A., D'Agata, S., __Helmstetter, A. J.__, Moore, N., Oliveira, B., Petit, C., ... & Veytia, D. (2023). David vs Goliath: Early career researchers in an unethical publishing system. *Accepted in Ecology Letters* https://doi.org/10.22541/au.169868591.11596604/v1
+
 #### 2023
 
-Anderson, B., Pannell, J., Billiard, S., Burgarella, C., de Boer, H., Dufay, M., __Helmstetter, A. J.__ ... & Glémin, S. (2023). Opposing effects of plant traits on diversification. *In press*, iScience. https://doi.org/10.1016/j.isci.2023.106362.
+Anderson, B., Pannell, J., Billiard, S., Burgarella, C., de Boer, H., Dufay, M., __Helmstetter, A. J.__ ... & Glémin, S. (2023). Opposing effects of plant traits on diversification. iScience, 26(4). https://doi.org/10.1016/j.isci.2023.106362.
 
-__Helmstetter, A. J.__, Zenil-Ferguson, R., Sauquet, H., Otto, S. P., Mendez, M., Vallejo-Marin, M., Schoenenberger, J., Burgarella, C., Anderson, B., de Boer, H., Glemin, S. & Kafer, J. (2022). Trait-dependent diversification in angiosperms: patterns, models and data. *In press*, Ecology Letters. https://doi.org/10.1111/ele.14170
+__Helmstetter, A. J.__, Zenil-Ferguson, R., Sauquet, H., Otto, S. P., Mendez, M., Vallejo-Marin, M., Schoenenberger, J., Burgarella, C., Anderson, B., de Boer, H., Glemin, S. & Kafer, J. (2022). Trait-dependent diversification in angiosperms: patterns, models and data.  Ecology Letters, 26(4), 640-657. https://doi.org/10.1111/ele.14170
 
 Wood, D. P., Holmberg, J. A., Osborne, O. G., __Helmstetter, A. J.__, Dunning, L. T., Ellison, A. R., ... & Papadopulos, A. S. (2023). Genetic assimilation of ancestral plasticity during parallel adaptation to zinc contamination in Silene uniflora. Nature Ecology & Evolution, 1-10. https://doi.org/10.1038/s41559-022-01975-w
 
