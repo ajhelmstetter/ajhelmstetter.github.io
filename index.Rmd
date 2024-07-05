@@ -18,11 +18,9 @@ metathis::meta() %>%
 
 **06/03/2024**
 
-Reproductive strategies of angiosperms __[preprint](https://doi.org/10.1101/2024.02.26.582019)__
+Our __[viewpoint](https://doi.org/10.1111/ele.14395)__ on how ECRs can help improve the current publishing system out in *Ecology Letters*
 
-New __[preprint](https://doi.org/10.1101/2024.01.09.574948)__: "Towards a phylogenomic classification of Magnoliidae"
-
-Our __[viewpoint](https://doi.org/10.22541/au.169868591.11596604/v1)__ on how ECRs can help improve the current publishing system soon out in *Ecology Letters*
+__[Preprint](https://doi.org/10.1101/2024.02.26.582019)__ on characterizing reproductive strategies of angiosperms
 
 <div id="me">
 
